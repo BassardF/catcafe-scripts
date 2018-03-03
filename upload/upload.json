@@ -1,0 +1,11 @@
+{
+  "new-zealand" : {
+    "wellington" : [{
+      "test" : 3,
+      "retest" : 3
+    }, {
+      "test" : 4,
+      "retest" : 4
+    }]
+  }
+}
