@@ -13,7 +13,6 @@ const queries = require('./queries.json');
 const GOOGLE_PLACES_API_KEY = "AIzaSyD-p7FodgtCx3iZMKWf0_FjJPAjG6kJo5k";
 const GOOGLE_PLACES_OUTPUT_FORMAT = "json";
 
-
 for (var i = 0; i < queries.length; i++) {
   fetchQueryText(GOOGLE_PLACES_OUTPUT_FORMAT, GOOGLE_PLACES_API_KEY, queries[i]);
 }
