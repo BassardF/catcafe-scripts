@@ -1,11 +1,64 @@
 {
   "new-zealand" : {
-    "wellington" : [{
-      "test" : 3,
-      "retest" : 3
+    "auckland" : [{
+      "name" : "Barista Cats café",
+      "address" : "95 Queen St, Auckland, 1010",
+      "geo" : [-36.8457398, 174.7660181],
+      "booking" : {
+        "available" : true,
+        "mandatory" : false
+      },
+      "phone" :  "093798966",
+      "email" : "baristacatscafe@gmail.com",
+      "website" : "https://www.baristacats.co.nz/",
+      "open" : {
+        "hours" : [10, 18]
+      },
+      "cats" : {
+        "count" : 14,
+        "adoptable" : null,
+        "adopted" : null
+      },
+      "fee" : {
+        "from" : 15,
+        "various" : true
+      },
+      "social" : {
+        "youtube" : "https://www.youtube.com/channel/UCTLAtu3hSTnczE8n33akApQ",
+        "twitter" : "https://twitter.com/BaristaCatsNZ",
+        "instagram" : "https://www.instagram.com/baristacatscafe/",
+        "facebook" : "https://www.facebook.com/BaristaCatsNZ"
+      }
     }, {
-      "test" : 4,
-      "retest" : 4
+      "name" : "The cat lounge",
+      "address" : "173A Archers Rd, Hillcrest, Auckland 0627",
+      "geo" : [-36.7831261, 174.7365234],
+      "booking" : {
+        "available" : true,
+        "mandatory" : false
+      },
+      "phone" :  "0800228223",
+      "email" : "info@thecatlounge.co.nz",
+      "website" : "https://thecatlounge.co.nz/",
+      "open" : {
+        "hours" : [10, 18]
+      },
+      "cats" : {
+        "count" : 20,
+        "adoptable" : null,
+        "adopted" : null
+      },
+      "fee" : {
+        "from" : 12,
+        "various" : true
+      },
+      "social" : {
+        "tripadvisor" : "https://www.tripadvisor.co.nz/Restaurant_Review-g255106-d9745061-Reviews-The_Cat_Lounge-Auckland_Central_North_Island.html",
+        "youtube" : null,
+        "twitter" : "https://twitter.com/thecatloungenz",
+        "instagram" : null,
+        "facebook" : "https://www.facebook.com/thecatlounge/"
+      }
     }]
   }
 }
