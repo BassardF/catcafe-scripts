@@ -22,7 +22,7 @@ function fetchQueryText(format, key, query){
   fetch(`https://maps.googleapis.com/maps/api/place/textsearch/${format}?key=${key}&query=${query}`).then(
     function(response) {
       if (response.status !== 200) {
-        console.log('Looks like there was a problem. Status Code: ' + response.status);
+        console.log(query, response);
         return;
       }
       // Examine the text in the response
