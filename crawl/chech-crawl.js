@@ -6,7 +6,6 @@ fs.readdirSync(normalizedPath).forEach(function(file) {
   checkValidity(file, data);
 });
 
-
 function checkValidity(file, data){
   console.log('\x1b[36m%s\x1b[0m', '#######  ' + file.replace('.json', '').toUpperCase());
   if(!data.results || !data.results.length) console.log('no results');
