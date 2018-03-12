@@ -1,11 +1,4 @@
-const admin = require('firebase-admin');
-const serviceAccount = require('../catcafe-b2d192e4fb81.json');
-
-admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount)
-});
 const fs = require('fs');
-const db = admin.firestore();
 
 const fetch = require('node-fetch');
 const queries = require('./queries.json');
@@ -21,7 +14,7 @@ function fetchQueryText(format, key, query){
   fetch(`https://maps.googleapis.com/maps/api/place/textsearch/${format}?key=${key}&query=${query}`).then(
     function(response) {
       if (response.status !== 200) {
-        console.log(query, response);
+        console.log('Looks like there was a problem. Status Code: ' + response.status);
         return;
       }
       // Examine the text in the response
