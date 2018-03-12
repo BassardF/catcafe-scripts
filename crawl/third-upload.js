@@ -15,7 +15,6 @@ fs.readdirSync(normalizedPath).forEach(function(file) {
   upload(file, data);
 });
 
-
 function upload(file, data){
   console.log("## Uploading data from : ", file);
   let uploaded = [];
