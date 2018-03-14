@@ -1,0 +1,259 @@
+[{
+  "formatted_address": "Av. Italia 1216, Providencia, Región Metropolitana, Chile",
+  "geometry": {
+    "location": {
+      "lat": -33.445782,
+      "lng": -70.62515599999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.44443502010727,
+        "lng": -70.62382047010728
+      },
+      "southwest": {
+        "lat": -33.44713467989272,
+        "lng": -70.62652012989273
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+  "id": "9792b345870e3e167a1dd14a5def2a818e082b9a",
+  "name": "El Mundo De Dali Catcafe",
+  "opening_hours": {
+    "open_now": false,
+    "weekday_text": []
+  },
+  "photos": [{
+    "height": 2448,
+    "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104232440882939463849/photos\">Sebastián Parra</a>"],
+    "photo_reference": "CmRaAAAAxW3TjjaJNzFnmqUm5y41sWc1_uijoMHVHa349QKeDecbCOeawmrgdTQWE_GcIkD-RuXKh_scwrA_yHg1Z-7SUyioiR_UGKrOpz4Sy29e9_0nl6xVXEKxYsJ9yeKbUX7eEhBxafn7HsIo6jTZ01mv0nRMGhRl9F4vWwiLZTDTVtb_oRBOrq-NdA",
+    "width": 3264
+  }],
+  "place_id": "ChIJc2-C78DPYpYRfECgVr6Iolg",
+  "rating": 4.8,
+  "reference": "CmRbAAAAWY4OJ7JYaQR3_rRZ-plJjZj_f7Y84Fqz89hPm_ra9zLovAiyYVyvSTD2EktYJl0GIUmksCrTssqXfCrRwOkUs-8I0lWSLkquGJil_6I646tX-DsoQhRvufXkv5Z5pulwEhC3shfnerOZrBadP9NuHmyLGhQJjg1ncH73ctgXvQgK0vFm1OQgxA",
+  "types": ["cafe", "pet_store", "store", "food", "point_of_interest", "establishment"],
+  "place_details": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [{
+        "long_name": "1216",
+        "short_name": "1216",
+        "types": ["street_number"]
+      }, {
+        "long_name": "Avenida Italia",
+        "short_name": "Av. Italia",
+        "types": ["route"]
+      }, {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": ["locality", "political"]
+      }, {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": ["administrative_area_level_3", "political"]
+      }, {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": ["administrative_area_level_2", "political"]
+      }, {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": ["administrative_area_level_1", "political"]
+      }, {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": ["country", "political"]
+      }],
+      "adr_address": "<span class=\"street-address\">Av. Italia 1216</span>, <span class=\"locality\">Providencia</span>, <span class=\"region\">Región Metropolitana</span>, <span class=\"country-name\">Chile</span>",
+      "formatted_address": "Av. Italia 1216, Providencia, Región Metropolitana, Chile",
+      "formatted_phone_number": "9 9181 3505",
+      "geometry": {
+        "location": {
+          "lat": -33.44578199999999,
+          "lng": -70.62515599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -33.44443586970851,
+            "lng": -70.6238213197085
+          },
+          "southwest": {
+            "lat": -33.4471338302915,
+            "lng": -70.6265192802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "9792b345870e3e167a1dd14a5def2a818e082b9a",
+      "international_phone_number": "+56 9 9181 3505",
+      "name": "El Mundo De Dali Catcafe",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [{
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        }, {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        }, {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        }, {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        }, {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        }, {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }],
+        "weekday_text": ["Monday: Closed", "Tuesday: 2:00 – 8:00 PM", "Wednesday: 2:00 – 8:00 PM", "Thursday: 2:00 – 8:00 PM", "Friday: 2:00 – 9:00 PM", "Saturday: 12:00 – 9:00 PM", "Sunday: 12:00 – 8:00 PM"]
+      },
+      "photos": [{
+        "height": 4000,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/105736948099234650726/photos\">El Mundo De Dali Catcafe</a>"],
+        "photo_reference": "CmRaAAAA0fFvMifO3gAGIFcAunmY33GYjAj43S5RLoOJcTIUfan6pDU97NjwWsPvjCKqSewRx-nlzmZFwQk-1S4o98nI2R0-VcbXqk6_4dKyGd5Buta_98Bw9weqxq2dwNyRT3ZwEhD_TdQ-ffQYFeivyaVccZbpGhQ-lxZjOTtLBrMJHESA7Lb01AhJXw",
+        "width": 6000
+      }, {
+        "height": 2448,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104232440882939463849/photos\">Sebastián Parra</a>"],
+        "photo_reference": "CmRaAAAAkBvFLtvpRPaQvFeo8MFUI0Fc6qdXV2-fU3NKJcwC9sOSS9SmrVYqTwdg9dmQZ2dyAZA1hF15SejhBEZWwVNWvhkVtJ8gf81B-qJuGcU_qTHWD6RipF1feIQ1GdaKLz50EhBLs-58fgUlzIsRS5AlfLLtGhRPRCtLsZY71EUikhbMpeWeJMItGA",
+        "width": 3264
+      }, {
+        "height": 2000,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/112709477086255444755/photos\">Carla P.</a>"],
+        "photo_reference": "CmRaAAAAaIswRIB6KWPcK7e-3pERPVJ8V4LGlo94y-XJI_vrw8F6PQkeuGWBxgJGMlK65GKhxFNlqXTTbRo_908y5hx8f8Q61X47Y36IUvjM-WwsPfqoa1Qwoiqt3CgoBx-DOXJSEhAgtj33-2pKt3UDcsnyiZWGGhRsK3_ZYggpoGvvNGT_QIlP326ehw",
+        "width": 2992
+      }, {
+        "height": 973,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/101882526824889717908/photos\">Carolina Corral</a>"],
+        "photo_reference": "CmRaAAAARrSnKmwLNwmo5mme7vR6hk-Wk3mRLCJ31dn49xyk0zSGkexmFK8iCk-b_MIZXhZUHa12cH1gJsN_Mjh-LK8C6qTCUQ_MyDFuBb93q7eW1V5_4Zt8fUod-zQaWQzSttujEhB7PqQ6jMIMNMAgJHl6W6LEGhTdvAywCLhKZGFK3DSxvxyrYvqn-w",
+        "width": 779
+      }, {
+        "height": 2336,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/109533011198858049383/photos\">Esteban Gomez</a>"],
+        "photo_reference": "CmRZAAAAUoOYV18WV7SrAKOVaJ9cmbYCODYaLWlldQiu0kg3YFnQB4gz2-rxqGnLZ9wDEASX1i9sOLQDzo0FoxroyTdxzRpYHhd7_k4p-n6vH6BsZtzRxA7pnHvmmzXTqPXej2-oEhDFyKJnHuOiZ7qMcAYJ01vzGhQmnu0GTJq1w52sDo6acoyuJVvdxA",
+        "width": 4160
+      }, {
+        "height": 1080,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/114894272812110321817/photos\">Gabriel David Rengifo Vargas</a>"],
+        "photo_reference": "CmRZAAAABTuYwlabix7PmQdo_rSTdqS4crM_jFyN2nEiAPwvV4TOGyPcKPutw_ovLDNG4DQZc6hrKgRL1vObR-ecrIjp98z12rHvfP1xSy7iL8dFi8KGBmCmGQ1Plz1Q8HrIMKIzEhAF1vXGsXLesDLYcmMNiSJ3GhSVwcE6ZMm4nSUG1lpGgRaO6jVPeA",
+        "width": 1920
+      }, {
+        "height": 3120,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111545516097769528220/photos\">Mireya Osorio Verdejo</a>"],
+        "photo_reference": "CmRaAAAAG2RbJfJgyNFWS-jXX4f_8qQl1eCNMx15dYxOwBGJiS20WL3sMdJZGYnA3T-Ml-hs2dvnSRZv7z47a9td9VXwHhw0XRn4IqB5UQ0Y7CmZros9ZLNgHM-KHQLU5sWbw64uEhDWmK5-xublDq4giwSN_bDaGhR6Ixv-2L4PlxHfu-yf0zg4DRrsAg",
+        "width": 4160
+      }, {
+        "height": 2336,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/115027743645185883052/photos\">Profesor Ketin</a>"],
+        "photo_reference": "CmRaAAAAOdwVffVIupu6O4r-x6kikZyHYoEikL9A2rV_dvv5u5Fx0bR5Ap9J1-GEtE2hc8SmBIEjrVoZLQYMz4nBmlZtM7BbJKTcq9AG5FRa_3gmu--iPD9IonzpIgyFH6G6TF9BEhAq4h6emJHwYpckDc13pCbXGhSkTf9dizTY-OrdW-EFfSS7EcgOiw",
+        "width": 4160
+      }, {
+        "height": 3264,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104140710750214001566/photos\">Leonora Letelier</a>"],
+        "photo_reference": "CmRaAAAAzWqp1snKFfR1LVu6p-b6LrRYp8HyQ5EY97kFsSZ6bMpcU9aDGlcIqc1jZIC7eNCpkEihcazUwwQrPbIFkqnp46URr1fkfH6L9R3Nq4IcJdXu9a1YorMucgDXGONzBEWLEhDiqLGRTDUBpl2nSNUoVXUYGhSwedQ6kEVfUVvP-fzLhqBG79UUtg",
+        "width": 1836
+      }, {
+        "height": 2592,
+        "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111926516672103978781/photos\">Romina Pagani</a>"],
+        "photo_reference": "CmRaAAAAw4No4hHKaDrsZ-DYPCG7SzpN6CPSxleZtr7x7hdmsgO6FVGzPzdhQGkmF2ed4W5OPsATVw_fh5ak2UtFiGHOYBoUV8CMFvloYA0dEhCq6eaSH0R6T8lJIfSxgzZpsILMEhDhEEG91KeKtg0UXyKG_-vcGhRz1inbRrn8ZwnLMLNGzjBvVHe6FQ",
+        "width": 1456
+      }],
+      "place_id": "ChIJc2-C78DPYpYRfECgVr6Iolg",
+      "rating": 4.8,
+      "reference": "CmRRAAAAkxZ95sPOcxmssnNr3UfoekfqZPPyGWIXieNuTwFMz_3z0qtqy4Yy5XRS8Lv5uoStHwEGNww6KtLbqMwGbcav9a63ErX-GiSWoWYHRbe0S7VWlkeCb_PFzIzICvdoyn6OEhA-VV7iKBPPoHTpjnUjPSOrGhQ5ackYetOX2MinGHQ0AP461o2khw",
+      "reviews": [{
+        "author_name": "Oscar Hcvgn",
+        "author_url": "https://www.google.com/maps/contrib/101941694800217586768/reviews",
+        "language": "es",
+        "profile_photo_url": "https://lh5.googleusercontent.com/-oD7cpQoWARI/AAAAAAAAAAI/AAAAAAAAAEA/GTtI9TfpJIA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Rápida atención, dedicada, novedosa carta, delicadas preparaciones vegetarianas acordes al precio. Quizás sólo como sugerencia ( depende de cada paladar) más fría podrían haber estado las preparaciones que comimos en el postre.",
+        "time": 1520802538
+      }, {
+        "author_name": "Carolina Corral",
+        "author_url": "https://www.google.com/maps/contrib/101882526824889717908/reviews",
+        "language": "es",
+        "profile_photo_url": "https://lh4.googleusercontent.com/-00eA3nLBjR4/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfxs_NK1NGfjiGxbVdZRn-eVE8UrQA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "El Mundo de Dalí es un espacio maravilloso, un oasis gatuno en una estresante ciudad, donde te olvidas del mundo y compartes la mejor gatoterapia. El Mundo de Dalí, pionero en Chile, está al mismo nivel e incluso mejor de los catcafés internacionales, lo que llena de orgullo a este pequeño rincón del planeta. Disfrutar de estos hermosos gatitos rescatados del abandono en compañía de algo tan rico para comer o beber y una carta variada y original hace que siempre quieras volver.",
+        "time": 1521029239
+      }, {
+        "author_name": "esteban torreblanca",
+        "author_url": "https://www.google.com/maps/contrib/110688693206246147356/reviews",
+        "language": "es",
+        "profile_photo_url": "https://lh4.googleusercontent.com/-SbIqToFpF24/AAAAAAAAAAI/AAAAAAAAAB4/AxMiAD6Ek2w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Hermosa experiencia de entrar en su hábitat, respetando su entorno y aceptando la hospitalidad que ellos te quieren entregar... Maravilloso!!!!!",
+        "time": 1519774180
+      }, {
+        "author_name": "Christian Ivan Perez Valenzuela",
+        "author_url": "https://www.google.com/maps/contrib/111250532333762941318/reviews",
+        "language": "es",
+        "profile_photo_url": "https://lh5.googleusercontent.com/-3COrUhjyG3s/AAAAAAAAAAI/AAAAAAAATrA/EOz8cFb2GQ8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "El mejor lugar , donde encontre a mi alma gemela y felina , mi hijo , mi gatito que me ama",
+        "time": 1520199502
+      }, {
+        "author_name": "Angelo Bernardi Oyarzún",
+        "author_url": "https://www.google.com/maps/contrib/105085121245252604516/reviews",
+        "language": "es",
+        "profile_photo_url": "https://lh4.googleusercontent.com/-CE6awHKyQhs/AAAAAAAAAAI/AAAAAAAAUjU/fJdSMBEXw64/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Solo te dan 1 hora de estadía. Conviene ir temprano, UDs que en la tarde los gatos están durmiendo. Hay hartos gatos y algunos están en adopción, pero son pocos.  \nEs súper tranquilo y los gatos dóciles. \nEs divertido por un rato, sobre todo para los niños, pero me da la impresión de que después de un par de visitas de vuelve monótono.",
+        "time": 1511744023
+      }],
+      "scope": "GOOGLE",
+      "types": ["cafe", "pet_store", "store", "food", "point_of_interest", "establishment"],
+      "url": "https://maps.google.com/?cid=6386817572643291260",
+      "utc_offset": -180,
+      "vicinity": "Avenida Italia 1216, Providencia, Providencia",
+      "website": "http://www.elmundodedali.cl/"
+    },
+    "status": "OK"
+  }
+}]
